@@ -30,6 +30,6 @@ Soy una desarrolladora apasionada por convertir café en código funcional y pro
 ¡Siempre estoy abierta a colaborar en proyectos interesantes o charlar sobre tecnología!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-gabriele-4473711b9/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilagabriele@outlook.com.ar) 
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:camilagabriele@outlook.com.ar)
 
 "El código es como el humor: si tienes que explicarlo, es malo." 💻✨
