@@ -1,16 +1,35 @@
-## Hi there 👋
+# ¡Hola! Soy Camila  👋🚀
 
-<!--
-**camila-ga/camila-ga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer**
 
-Here are some ideas to get you started:
+Soy una desarrolladora apasionada por convertir café en código funcional y problemas complejos en soluciones sencillas. Vengo del mundo de la logística y la atención al cliente, lo que me dio un "ojo de halcón" para el detalle y una paciencia infinita para el debugging. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-📍 Viviendo en **Madrid, España**.
+- 🎮 Creadora de **SunSeeker**, un juego de plataformas donde puse a prueba mis límites con Phaser y arquitecturas integradas.
+-💡 Creo firmemente que el **trabajo en equipo** y el **aprendizaje continuo** son la base de un gran producto.
+
+---
+
+**Back-End & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
+</p>
+
+**Herramientas & Otros**
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+### 📫 ¿Hablamos?
+
+¡Siempre estoy abierta a colaborar en proyectos interesantes o charlar sobre tecnología!
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-gabriele-4473711b9/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilagabriele@outlook.com.ar) 
+
+"El código es como el humor: si tienes que explicarlo, es malo." 💻✨
