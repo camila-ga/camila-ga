@@ -4,9 +4,9 @@
 
 Soy una desarrolladora apasionada por convertir café en código funcional y problemas complejos en soluciones sencillas. Vengo del mundo de la logística y la atención al cliente, lo que me dio un "ojo de halcón" para el detalle y una paciencia infinita para el debugging. 
 
--📍 Viviendo en **Madrid, España**.
-- 🎮 Creadora de **SunSeeker**, un juego de plataformas donde puse a prueba mis límites con Phaser y arquitecturas integradas.
--💡 Creo firmemente que el **trabajo en equipo** y el **aprendizaje continuo** son la base de un gran producto.
+📍 Viviendo en **Madrid, España**.
+🎮 Creadora de **SunSeeker**, un juego de plataformas donde puse a prueba mis límites con Phaser y arquitecturas integradas.
+💡 Creo firmemente que el **trabajo en equipo** y el **aprendizaje continuo** son la base de un gran producto.
 
 ---
 
